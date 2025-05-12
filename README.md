@@ -33,10 +33,11 @@ This project presents a phantom-based simulation for endovascular aneurysm proce
 ## Setup Instructions
 
 ### 1. Installation
-1. Install 3D Slicer
-2. Install PLUS Toolkit
-3. Clone this repository
-4. Load the AneurysmModule into 3D Slicer
+1. Install 3D Slicer 5.2.1 or higher
+2. SlicerOpenIGTLink extension in 3D Slicer
+3. Install PLUS Toolkit
+4. Clone this repository
+5. Load the AneurysmModule into 3D Slicer
 
 ### 2. Hardware Setup
 1. Connect the electromagnetic tracking system
